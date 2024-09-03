@@ -1,4 +1,4 @@
-# Resolvendo_Problemas_Numericos_com_Go
+# Resolvendo Problemas Numéricos com Go
 
 # Programa para Números Divisíveis por 3:
 
